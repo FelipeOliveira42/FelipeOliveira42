@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Felipe Oliveira!
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/felips._)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-oliveira-mesquita-594387213/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-oliveira-mesquita/)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/deadplay14)
 
 ![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeOliveira42&show_icons=true&theme=dracula)
