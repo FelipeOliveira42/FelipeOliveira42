@@ -19,6 +19,6 @@
 </div><br/>
 
 - 🐱‍👓 Estudando 
-- 🐱‍💻 Contate-me no email: felipeoliveiramesquita42@gmail.com
+- 🐱‍💻 Contate-me no email: dev.felipoliveira@gmail.com
 
 ![snake gif](https://github.com/FelipeOliveira42/FelipeOliveira42/blob/output/github-contribution-grid-snake.svg)
